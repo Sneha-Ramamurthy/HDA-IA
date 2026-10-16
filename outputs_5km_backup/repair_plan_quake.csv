@@ -1,0 +1,115 @@
+priority,phase,kind,asset,type,group,length_m,hazard_metric,repair_cost_lakh,cum_cost_crore,cum_access_recovered_pct
+1,1,road,Kalina Kurla Road,bridge,road,119.0,0.263,5.9,0.06,29.8
+2,1,road,Road No 4,bridge,road,49.0,0.263,0.9,0.07,33.0
+3,1,road,Mother Dairy Road,bridge,road,20.0,0.263,1.0,0.08,35.3
+4,2,road,"Chembur Flyover, Ghatkopar Mahul Road",bridge,road,359.0,0.263,17.9,0.26,53.7
+5,2,road,residential,bridge,road,89.0,0.322,3.3,0.29,56.4
+6,2,road,Ghatkopar Mahul Road,bridge,road,56.0,0.263,2.5,0.32,58.3
+7,2,road,Bazar Ward Road,bridge,road,46.0,0.263,0.9,0.33,59.0
+8,2,road,Mahatma Gandhi Road,bridge,road,111.0,0.322,10.0,0.43,65.4
+9,2,road,Bandra Kurla Complex Road,bridge,road,159.0,0.263,11.9,0.54,70.4
+10,2,road,residential,bridge,road,115.0,0.263,2.2,0.57,71.4
+11,2,road,Chunabhatti Road,bridge,road,148.0,0.263,7.4,0.64,73.2
+12,2,facility,Vidyavihar (W),bus_station,transport,,0.322,25.0,0.89,77.1
+13,2,road,Santa Cruz – Chembur Link Road,bridge,road,150.0,0.263,11.2,1.0,78.7
+14,2,road,S G Barve Marg (C S T Road),bridge,road,15.0,0.263,0.8,1.01,78.8
+15,2,road,secondary_link,bridge,road,14.0,0.263,0.7,1.02,78.9
+16,3,road,S G Barve Marg (C S T Road),bridge,road,17.0,0.263,0.8,1.02,82.3
+17,3,road,Railway Colony Road,bridge,road,157.0,0.263,2.9,1.05,83.6
+18,3,road,residential,bridge,road,200.0,0.263,3.7,1.09,84.0
+19,3,road,Station Road,bridge,road,87.0,0.263,1.6,1.11,84.2
+20,3,road,residential,bridge,road,254.0,0.263,4.8,1.16,84.5
+21,3,road,Railway Colony Road,bridge,road,89.0,0.263,1.7,1.17,84.6
+22,3,road,tertiary,bridge,road,48.0,0.263,2.1,1.19,84.8
+23,3,facility,Homeguard Central Training Institute,police,emergency,,0.322,25.0,1.44,86.3
+24,3,road,St. Anthony's Road,bridge,road,69.0,0.263,1.3,1.46,86.4
+25,3,road,secondary,bridge,road,137.0,0.263,10.3,1.56,86.8
+26,3,road,Nathani Road,bridge,road,123.0,0.263,5.5,1.62,87.0
+27,3,road,residential,bridge,road,494.0,0.263,9.3,1.71,87.1
+28,3,facility,Asalpha,station,transport,,0.322,150.0,3.21,90.0
+29,3,road,Chembur Flyover,bridge,road,171.0,0.263,8.5,3.29,90.1
+30,3,road,SCLR - LBS Marg Connector,bridge,road,275.0,0.263,6.9,3.36,90.3
+31,3,road,Lal Bahadur Shastri Marg,bridge,road,101.0,0.263,10.1,3.46,90.5
+32,3,road,residential,bridge,road,356.0,0.263,6.7,3.53,90.6
+33,3,road,Chembur Flyover,bridge,road,224.0,0.263,11.2,3.64,90.8
+34,3,road,"Chembur Flyover, Ghatkopar Mahul Road",bridge,road,376.0,0.263,18.8,3.83,91.2
+35,3,facility,Vivek Maternity and Nursing Home,hospital,health,,0.322,125.0,5.08,92.8
+36,3,road,Santa Cruz – Chembur Link Road Flyover,bridge,road,271.0,0.263,13.5,5.22,92.9
+37,3,road,A H Wadia Marg,bridge,road,244.0,0.263,11.0,5.33,93.1
+38,3,road,Ghatkopar-Andheri Link Road Extention,bridge,road,218.0,0.322,21.8,5.54,93.3
+39,3,road,Santa Cruz – Chembur Link Road,bridge,road,485.0,0.263,24.2,5.79,93.5
+40,3,road,Santa Cruz – Chembur Link Road,bridge,road,43.0,0.263,2.1,5.81,93.6
+41,3,road,Santa Cruz – Chembur Link Road,bridge,road,12.0,0.263,0.6,5.81,93.7
+42,3,road,Santa Cruz – Chembur Link Road,bridge,road,25.0,0.263,1.3,5.83,93.9
+43,3,road,Lokmanya Tilak Terminus Road,bridge,road,31.0,0.263,1.4,5.84,94.0
+44,3,road,Lokmanya Tilak Terminus Road,bridge,road,33.0,0.263,1.5,5.85,94.2
+45,3,road,Lokmanya Tilak Terminus Road,bridge,road,34.0,0.263,1.7,5.87,94.3
+46,3,road,Santa Cruz – Chembur Link Road,bridge,road,11.0,0.263,0.6,5.88,94.4
+47,3,road,Santa Cruz – Chembur Link Road,bridge,road,29.0,0.263,1.4,5.89,94.6
+48,3,road,Santa Cruz – Chembur Link Road,bridge,road,29.0,0.263,1.5,5.91,94.7
+49,3,road,Lokmanya Tilak Terminus Road,bridge,road,32.0,0.263,1.6,5.92,94.8
+50,3,road,Lokmanya Tilak Terminus Road,bridge,road,35.0,0.263,1.8,5.94,95.0
+51,3,road,Santa Cruz – Chembur Link Road,bridge,road,324.0,0.263,16.2,6.1,95.1
+52,3,road,Santa Cruz – Chembur Link Road,bridge,road,328.0,0.263,16.4,6.27,95.2
+53,3,road,residential,bridge,road,150.0,0.263,2.8,6.29,95.2
+54,3,road,"Mother Dairy Road, Lokmanya Tilak Terminus Road",bridge,road,541.0,0.263,27.0,6.56,96.8
+55,3,facility,Shree Sukh Shanti Hospital,hospital,health,,0.322,125.0,7.81,97.2
+56,3,road,"Chembur Flyover, Eastern Express Highway",bridge,road,345.0,0.263,34.5,8.16,97.6
+57,3,road,trunk_link,bridge,road,324.0,0.263,32.4,8.48,97.8
+58,3,road,Flyover,bridge,road,329.0,0.263,32.9,8.81,97.9
+59,3,road,Lokmanya Tilak Terminus Road,bridge,road,352.0,0.263,15.8,8.97,98.9
+60,3,road,Lokmanya Tilak Terminus Road,bridge,road,355.0,0.263,16.0,9.13,99.0
+61,3,road,trunk,bridge,road,114.0,0.263,11.4,9.24,99.0
+62,3,facility,"Shreeji Hospital, Ghatkopar",hospital,health,,0.322,125.0,10.49,99.2
+63,3,facility,Jagruti Nagar,station,transport,,0.322,150.0,11.99,99.4
+64,3,road,residential,bridge,road,73.0,0.263,1.4,12.01,99.4
+65,3,road,residential,bridge,road,249.0,0.263,4.7,12.06,99.4
+66,3,road,Santa Cruz – Chembur Link Road,bridge,road,619.0,0.263,46.4,12.52,99.5
+67,3,road,"Chembur Flyover, Eastern Express Highway",bridge,road,636.0,0.263,63.6,13.16,99.5
+68,3,road,Ghatkopar Mahul Road,bridge,road,253.0,0.263,11.4,13.27,99.5
+69,3,facility,Pasaydan Hospital and Trust,hospital,health,,0.322,125.0,14.52,99.6
+70,3,road,"Sion Panvel Highway, Annabhau Sathe Flyover, Sahitya Ratna Annabhau Sathe Flyover",bridge,road,536.0,0.263,53.6,15.06,99.7
+71,3,road,"Mother Dairy Road, Lokmanya Tilak Terminus Road",bridge,road,562.0,0.263,28.1,15.34,99.7
+72,3,road,Bandra Kurla Complex Road,bridge,road,161.0,0.263,12.1,15.46,99.7
+73,3,road,secondary,bridge,road,183.0,0.263,9.2,15.55,99.7
+74,3,road,Shahid Major Kaustubh Rane flyover,bridge,road,245.0,0.263,12.2,15.67,99.7
+75,3,facility,hospital,hospital,health,,0.322,125.0,16.92,99.8
+76,3,facility,"Jeevandeep Children Hospital, Mumbai",hospital,health,,0.322,125.0,18.17,99.8
+77,3,road,Flyover,bridge,road,859.0,0.263,42.9,18.6,99.8
+78,3,road,SG Barve Marg,bridge,road,16.0,0.263,0.8,18.61,99.8
+79,3,facility,Dr. Dipak Desai's Ear Nose and Throat Hospital,hospital,health,,0.322,125.0,19.86,99.8
+80,3,facility,The Eye Super Specialities,hospital,health,,0.322,125.0,21.11,99.8
+81,3,road,tertiary,bridge,road,48.0,0.263,2.2,21.13,99.8
+82,3,road,Shahid Major Kaustubh Rane flyover,bridge,road,377.0,0.263,18.9,21.32,99.8
+83,3,road,Santa Cruz – Chembur Link Road,bridge,road,635.0,0.263,47.6,21.79,99.8
+84,3,road,SG Barve Marg,bridge,road,34.0,0.263,1.7,21.81,99.8
+85,3,facility,Vatsalya Maternity and Surgical Nursing Home,hospital,health,,0.322,125.0,23.06,99.9
+86,3,facility,Sunny Childrens Hospital,hospital,health,,0.322,125.0,24.31,99.9
+87,3,road,secondary,bridge,road,286.0,0.263,21.4,24.53,99.9
+88,3,facility,"Saraswati Eye Hospital, Mumbai",hospital,health,,0.322,125.0,25.78,99.9
+89,3,facility,Tiwari Hospital,hospital,health,,0.322,125.0,27.03,99.9
+90,3,facility,Dr Sonagra Medical and Surgical Centre,hospital,health,,0.322,125.0,28.28,99.9
+91,3,road,Ramdev Pir Road,bridge,road,411.0,0.263,18.5,28.46,99.9
+92,3,road,Lal Bahadur Shastri Marg,bridge,road,101.0,0.263,10.1,28.56,99.9
+93,3,road,Santa Cruz – Chembur Link Road,bridge,road,56.0,0.263,5.6,28.62,99.9
+94,3,facility,Hiren Mehta Eye Care Centre,hospital,health,,0.322,125.0,29.87,99.9
+95,3,road,Mother Dairy Road,bridge,road,22.0,0.263,1.1,29.88,99.9
+96,3,road,primary,bridge,road,222.0,0.322,44.4,30.32,99.9
+97,3,facility,Sarvodaya Hospital,hospital,health,,0.322,125.0,31.57,99.9
+98,3,facility,new life hospital,hospital,health,,0.322,125.0,32.82,99.9
+99,3,facility,H.J. Doshi Ghatkopar Hindu Sabha Hospital,hospital,health,,0.322,125.0,34.07,99.9
+100,3,road,Mahatma Gandhi Road,bridge,road,129.0,0.322,11.6,34.19,99.9
+101,3,facility,Cg Eye Foundaton and Shree Ghatkopar Brahman Samaj,hospital,health,,0.322,125.0,35.44,99.9
+102,3,facility,muktabai hospital,hospital,health,,0.322,125.0,36.69,99.9
+103,3,facility,Doshi Nursing Home,hospital,health,,0.322,125.0,37.94,99.9
+104,3,facility,"Nulife Hospital, Mumbai",hospital,health,,0.322,125.0,39.19,99.9
+105,3,facility,Ami Drashti Eye Care Centre,hospital,health,,0.322,125.0,40.44,99.9
+106,3,facility,Jain Eye Clinic,hospital,health,,0.322,125.0,41.69,99.9
+107,3,facility,Vidyavihar,station,transport,,0.322,150.0,43.19,99.9
+108,3,road,"SCLR Flyover, Flyover",bridge,road,803.0,0.263,40.2,43.59,99.9
+109,3,road,Lokmanya Tilak Terminus Road,bridge,road,35.0,0.263,1.7,43.61,100.0
+110,3,road,Cama Lane,bridge,road,100.0,0.322,3.7,43.65,100.0
+111,3,road,Santa Cruz – Chembur Link Road,bridge,road,47.0,0.263,4.7,43.69,100.0
+112,3,road,"C S T Kurla Junction Flyover, C S M T Kurla Junction Flyover",bridge,road,718.0,0.263,53.8,44.23,100.0
+113,3,road,Santa Cruz – Chembur Link Road,bridge,road,51.0,0.263,5.1,44.28,100.0
+114,3,road,Santa Cruz – Chembur Link Road,bridge,road,51.0,0.263,5.1,44.33,100.0

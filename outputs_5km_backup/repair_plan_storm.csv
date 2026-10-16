@@ -1,0 +1,330 @@
+priority,phase,kind,asset,type,group,length_m,hazard_metric,repair_cost_lakh,cum_cost_crore,cum_access_recovered_pct
+1,1,road,Barrister Nath Pai Road,tertiary,road,10.0,33.387,0.1,0.0,11.7
+2,1,road,residential,residential,road,29.0,33.387,0.1,0.0,13.6
+3,1,road,residential,residential,road,7.0,33.387,0.0,0.0,13.8
+4,1,road,residential,residential,road,4.0,33.387,0.0,0.0,13.9
+5,1,road,residential,residential,road,11.0,33.387,0.1,0.0,14.5
+6,1,road,tertiary,tertiary,road,86.0,33.387,0.8,0.01,18.1
+7,1,road,residential,residential,road,33.0,33.387,0.1,0.01,18.6
+8,1,road,residential,residential,road,6.0,33.387,0.0,0.01,18.7
+9,1,road,residential,residential,road,31.0,33.387,0.1,0.01,19.1
+10,1,road,Ramdev Pir Road,tertiary,road,75.0,33.387,0.7,0.02,21.3
+11,1,road,residential,residential,road,10.0,33.387,0.0,0.02,21.3
+12,1,road,P R Kadam Marg,residential,road,38.0,33.387,0.3,0.02,22.0
+13,1,road,residential,residential,road,13.0,33.387,0.0,0.02,22.1
+14,1,road,Road No 18,tertiary,road,27.0,33.387,0.2,0.03,22.6
+15,1,road,Road No 15,residential,road,15.0,33.387,0.1,0.03,22.7
+16,1,road,Road 13,residential,road,8.0,33.387,0.1,0.03,22.8
+17,1,road,Shell Colony Road,tertiary,road,3.0,33.387,0.1,0.03,22.9
+18,1,road,Sant Narsee Mehta Marg,tertiary,road,45.0,33.387,0.4,0.03,23.5
+19,1,road,residential,residential,road,42.0,33.387,0.2,0.03,23.7
+20,1,road,R B Kadam Road,tertiary,road,24.0,33.387,0.2,0.04,24.0
+21,1,road,residential,residential,road,8.0,33.387,0.0,0.04,24.1
+22,1,road,residential,residential,road,108.0,33.387,0.4,0.04,24.8
+23,1,road,Railway Colony Road,residential,road,53.0,33.387,0.2,0.04,25.0
+24,1,road,residential,residential,road,20.0,33.387,0.1,0.04,25.5
+25,1,road,residential,residential,road,23.0,33.387,0.1,0.04,25.6
+26,1,road,residential,residential,road,9.0,33.387,0.1,0.05,25.7
+27,1,road,living_street,living_street,road,39.0,33.387,0.1,0.05,25.8
+28,1,road,Sunder Nagar Road Number 2,residential,road,72.0,33.387,0.5,0.05,26.3
+29,1,road,Gurudwara Road,residential,road,48.0,33.387,0.2,0.05,26.5
+30,1,road,residential,residential,road,80.0,33.387,0.3,0.06,26.8
+31,1,road,residential,residential,road,14.0,33.387,0.1,0.06,26.9
+32,1,road,Road No 10,secondary,road,12.0,33.387,0.1,0.06,27.0
+33,1,road,residential,residential,road,10.0,33.387,0.1,0.06,27.1
+34,1,road,Ghatla Road,residential,road,28.0,33.387,0.1,0.06,27.1
+35,1,road,tertiary_link,tertiary_link,road,14.0,33.387,0.1,0.06,27.2
+36,1,road,tertiary_link,tertiary_link,road,8.0,33.387,0.2,0.06,27.3
+37,1,road,Vasant Patil Marg,residential,road,519.0,33.387,1.9,0.08,28.6
+38,1,road,residential,residential,road,43.0,33.387,0.2,0.08,28.7
+39,1,road,residential,residential,road,45.0,33.387,0.2,0.09,28.9
+40,1,road,residential,residential,road,22.0,33.387,0.1,0.09,29.1
+41,1,road,Lal Bahadur Shastri Marg,primary,road,40.0,33.387,0.8,0.09,29.6
+42,1,road,residential,residential,road,20.0,33.387,0.2,0.1,29.7
+43,1,road,Nathani Road,tertiary,road,8.0,33.387,0.2,0.1,29.8
+44,1,road,Nathani Road,tertiary,road,30.0,33.387,0.3,0.1,30.0
+45,1,road,residential,residential,road,66.0,33.387,0.2,0.1,30.3
+46,1,road,Mahatma Gandhi Road,tertiary,road,8.0,33.387,0.1,0.1,30.4
+47,1,road,St Anthony Road,residential,road,176.0,33.387,0.7,0.11,30.7
+48,1,road,Mahatma Gandhi Road,tertiary,road,10.0,33.387,0.2,0.11,31.3
+49,1,road,residential,residential,road,48.0,33.387,0.2,0.11,31.4
+50,1,road,residential,residential,road,39.0,33.387,0.1,0.12,31.5
+51,1,road,residential,residential,road,48.0,33.387,0.2,0.12,31.6
+52,1,road,residential,residential,road,148.0,33.387,0.6,0.12,31.9
+53,1,road,residential,residential,road,19.0,33.387,0.1,0.12,31.9
+54,1,road,tertiary_link,tertiary_link,road,8.0,33.387,0.1,0.12,32.0
+55,1,road,residential,residential,road,34.0,33.387,0.1,0.13,32.1
+56,1,road,residential,residential,road,24.0,33.387,0.2,0.13,32.1
+57,1,road,residential,residential,road,63.0,33.387,0.2,0.13,32.2
+58,1,road,residential,residential,road,36.0,33.387,0.1,0.13,32.3
+59,1,road,Dr Babasaheb Ambedkar Udyan Circle,secondary,road,24.0,33.387,0.2,0.13,32.4
+60,1,road,Maneklal Mehta Road,residential,road,35.0,33.387,0.1,0.14,32.5
+61,1,road,residential,residential,road,71.0,33.387,0.3,0.14,32.6
+62,1,road,9th Road,residential,road,29.0,33.387,0.2,0.14,32.7
+63,1,road,residential,residential,road,68.0,33.387,0.3,0.14,32.8
+64,1,road,Road 4,residential,road,63.0,33.387,0.2,0.14,32.9
+65,1,road,residential,residential,road,78.0,33.387,0.3,0.15,33.0
+66,1,road,residential,residential,road,46.0,33.387,0.2,0.15,33.1
+67,1,road,D Saraswati Marg (Central Avenue),secondary,road,5.0,33.387,0.1,0.15,33.1
+68,1,road,residential,residential,road,71.0,33.387,0.3,0.15,33.2
+69,1,road,residential,residential,road,91.0,33.387,0.3,0.16,33.3
+70,1,road,Rd4-Rd6 Connector 1,residential,road,80.0,33.387,0.3,0.16,33.4
+71,1,road,Rd4-Rd6 Connector 1,residential,road,26.0,33.387,0.2,0.16,33.5
+72,1,road,residential,residential,road,55.0,33.387,0.2,0.16,33.5
+73,1,road,residential,residential,road,73.0,33.387,0.3,0.17,33.7
+74,1,road,residential,residential,road,39.0,33.387,0.1,0.17,33.8
+75,1,road,residential,residential,road,88.0,33.387,0.3,0.17,33.9
+76,1,road,Sunder Nagar Road Number 2,residential,road,45.0,33.387,0.3,0.17,34.0
+77,1,road,residential,residential,road,96.0,33.387,0.7,0.18,34.3
+78,1,road,P R Kadam Marg,residential,road,96.0,33.387,0.4,0.19,34.4
+79,1,road,residential,residential,road,30.0,33.387,0.2,0.19,34.5
+80,1,road,residential,residential,road,120.0,33.387,0.4,0.19,34.6
+81,1,road,residential,residential,road,70.0,33.387,0.3,0.19,34.7
+82,1,road,unclassified,unclassified,road,62.0,33.387,0.5,0.2,34.8
+83,1,road,residential,residential,road,73.0,33.387,0.3,0.2,34.9
+84,1,road,9th Road,residential,road,50.0,33.387,0.4,0.21,34.9
+85,1,road,residential,residential,road,115.0,33.387,0.4,0.21,35.0
+86,1,road,7th Cross Road,residential,road,34.0,33.387,0.3,0.21,35.1
+87,1,road,Ramachandra Marg,residential,road,76.0,33.387,0.3,0.22,35.2
+88,2,facility,Tata Power Kurla Receiving Station,substation,power,,33.387,200.0,2.22,76.9
+89,2,road,residential,residential,road,134.0,33.387,0.5,2.22,77.0
+90,2,road,residential,residential,road,51.0,33.387,0.2,2.22,77.1
+91,2,road,residential,residential,road,35.0,33.387,0.3,2.23,77.3
+92,2,road,Jugaldas Modi Marg,tertiary,road,39.0,33.387,0.3,2.23,77.5
+93,2,road,Jugaldas Modi Marg,tertiary,road,36.0,33.387,0.7,2.24,77.7
+94,2,road,residential,residential,road,46.0,33.387,0.3,2.24,77.8
+95,2,road,residential,residential,road,238.0,33.387,0.9,2.25,77.9
+96,2,road,Rajawadi Road Number 4,residential,road,96.0,33.387,0.4,2.25,78.0
+97,2,road,"Kamgar Nagar Road, Shanta Jog Marg",tertiary,road,71.0,33.387,0.6,2.26,78.1
+98,2,road,residential,residential,road,74.0,33.387,0.6,2.26,78.2
+99,2,road,tertiary,tertiary,road,10.0,33.387,0.1,2.26,78.2
+100,2,road,residential,residential,road,109.0,33.387,0.4,2.27,78.3
+101,2,road,Road 4,residential,road,29.0,33.387,0.2,2.27,78.4
+102,2,road,residential,residential,road,10.0,33.387,0.0,2.27,78.6
+103,2,road,Road 4,residential,road,21.0,33.387,0.2,2.27,78.9
+104,2,road,residential,residential,road,78.0,33.387,0.6,2.28,79.0
+105,2,road,residential,residential,road,104.0,33.387,0.4,2.28,79.1
+106,2,road,residential,residential,road,171.0,33.387,0.6,2.29,79.2
+107,2,road,Railway Colony Road,residential,road,149.0,33.387,0.6,2.29,79.3
+108,2,road,Vidyabhavan Road,residential,road,211.0,33.387,0.8,2.3,79.5
+109,3,road,Pipeline Road,tertiary,road,294.0,33.387,5.3,2.35,80.2
+110,3,road,Dayanand Saraswati Marg (Central Avenue Road),secondary,road,24.0,33.387,0.2,2.36,80.2
+111,3,road,residential,residential,road,114.0,33.387,0.4,2.36,80.3
+112,3,road,Shell Colony Road,tertiary,road,70.0,33.387,0.6,2.37,80.4
+113,3,road,D K Sandu Marg,secondary,road,39.0,33.387,0.4,2.37,80.5
+114,3,road,residential,residential,road,4.0,33.387,0.0,2.37,80.5
+115,3,road,Nathani Road,tertiary,road,44.0,33.387,0.8,2.38,80.6
+116,3,road,tertiary_link,tertiary_link,road,7.0,33.387,0.1,2.38,80.7
+117,3,road,Nathani Road,tertiary,road,55.0,33.387,1.0,2.39,80.8
+118,3,road,tertiary_link,tertiary_link,road,6.0,33.387,0.1,2.39,80.9
+119,3,road,residential,residential,road,99.0,33.387,0.4,2.4,81.0
+120,3,road,tertiary,tertiary,road,65.0,33.387,0.6,2.4,81.0
+121,3,road,residential,residential,road,9.0,33.387,0.1,2.4,81.1
+122,3,road,tertiary,tertiary,road,10.0,33.387,0.2,2.4,81.1
+123,3,road,residential,residential,road,110.0,33.387,0.8,2.41,81.2
+124,3,road,residential,residential,road,70.0,33.387,0.5,2.42,81.4
+125,3,road,"Parshiwadi Road, Jogiraj Ashram Lane",residential,road,78.0,33.387,0.6,2.42,81.5
+126,3,road,residential,residential,road,182.0,33.387,0.7,2.43,81.6
+127,3,road,Road 4,residential,road,145.0,33.387,1.1,2.44,81.7
+128,3,road,residential,residential,road,70.0,33.387,0.3,2.44,81.8
+129,3,road,residential,residential,road,79.0,33.387,0.6,2.45,82.2
+130,3,road,Road 1,residential,road,49.0,33.387,0.2,2.45,82.3
+131,3,road,residential,residential,road,79.0,33.387,0.6,2.46,82.4
+132,3,road,Chunabhatti Road,secondary,road,218.0,33.387,2.2,2.48,82.7
+133,3,road,residential,residential,road,224.0,33.387,0.8,2.49,82.8
+134,3,road,Nathani Road,tertiary,road,70.0,33.387,1.3,2.5,82.9
+135,3,road,tertiary_link,tertiary_link,road,6.0,33.387,0.1,2.5,83.0
+136,3,road,Nathani Road,tertiary,road,19.0,33.387,0.3,2.5,83.1
+137,3,road,residential,residential,road,6.0,33.387,0.0,2.51,83.2
+138,3,road,Nathani Road,tertiary,road,6.0,33.387,0.1,2.51,83.3
+139,3,road,Nathani Road,tertiary,road,27.0,33.387,0.2,2.51,85.0
+140,3,road,residential,residential,road,6.0,33.387,0.0,2.51,85.1
+141,3,road,residential,residential,road,12.0,33.387,0.1,2.51,85.2
+142,3,road,residential,residential,road,14.0,33.387,0.1,2.51,85.3
+143,3,road,residential,residential,road,38.0,33.387,0.1,2.51,85.4
+144,3,road,Nathani Road,tertiary,road,46.0,33.387,0.4,2.52,85.6
+145,3,road,Nathani Road,tertiary,road,4.0,33.387,0.1,2.52,85.7
+146,3,road,tertiary_link,tertiary_link,road,5.0,33.387,0.1,2.52,85.8
+147,3,road,residential,residential,road,32.0,33.387,0.1,2.52,85.9
+148,3,road,secondary,secondary,road,29.0,33.387,0.6,2.52,85.9
+149,3,road,residential,residential,road,307.0,33.387,1.2,2.54,86.0
+150,3,road,Railway Colony Road,residential,road,105.0,33.387,0.8,2.54,86.1
+151,3,road,residential,residential,road,91.0,33.387,0.3,2.55,86.2
+152,3,road,Shell Colony Road,tertiary,road,35.0,33.387,0.3,2.55,86.2
+153,3,road,R B Kadam Road,tertiary,road,107.0,33.387,1.9,2.57,86.3
+154,3,road,Jugaldas Modi Marg,tertiary,road,131.0,33.387,1.2,2.58,87.4
+155,3,road,tertiary,tertiary,road,13.0,33.387,0.1,2.58,87.4
+156,3,road,R B Kadam Road,tertiary,road,105.0,33.387,0.9,2.59,87.5
+157,3,road,tertiary_link,tertiary_link,road,7.0,33.387,0.1,2.59,87.5
+158,3,road,residential,residential,road,123.0,33.387,0.5,2.6,87.5
+159,3,road,90 Feet Road,tertiary,road,13.0,33.387,0.1,2.6,87.5
+160,3,road,Ghatla Road,residential,road,283.0,33.387,1.1,2.61,87.6
+161,3,road,Janardan Patil Road,tertiary,road,37.0,33.387,0.3,2.61,87.7
+162,3,road,residential,residential,road,141.0,33.387,1.1,2.62,87.8
+163,3,road,Ghatkopar Mahul Road,tertiary,road,34.0,33.387,0.3,2.63,87.8
+164,3,road,residential,residential,road,9.0,33.387,0.0,2.63,87.8
+165,3,road,residential,residential,road,67.0,33.387,0.5,2.63,87.9
+166,3,road,residential,residential,road,9.0,33.387,0.0,2.63,87.9
+167,3,road,Mahatma Gandhi Road,tertiary,road,96.0,33.387,0.9,2.64,87.9
+168,3,road,Chunabhatti Road,secondary,road,75.0,33.387,1.5,2.66,88.2
+169,3,road,residential,residential,road,95.0,33.387,0.4,2.66,88.3
+170,3,road,Road 1,residential,road,76.0,33.387,0.6,2.67,88.4
+171,3,road,N S Mankikar Marg,secondary,road,57.0,33.387,0.6,2.67,88.4
+172,3,road,Sunder Nagar Road Number 2,residential,road,100.0,33.387,0.4,2.67,88.5
+173,3,road,Shell Colony Road,tertiary,road,105.0,33.387,0.9,2.68,88.5
+174,3,road,Ingalwadi Lane,residential,road,156.0,33.387,1.2,2.7,88.6
+175,3,road,residential,residential,road,163.0,33.387,0.6,2.7,88.8
+176,3,road,Vasantarao Naik Marg,tertiary,road,132.0,33.387,1.2,2.71,88.9
+177,3,road,D Saraswati Marg (Central Avenue),secondary,road,66.0,33.387,1.3,2.73,88.9
+178,3,road,D K Sandu Marg,secondary,road,27.0,33.387,0.3,2.73,89.0
+179,3,road,residential,residential,road,360.0,33.387,1.4,2.74,89.0
+180,3,road,residential,residential,road,51.0,33.387,0.2,2.75,89.1
+181,3,road,residential,residential,road,101.0,33.387,0.4,2.75,89.2
+182,3,road,Ingalwadi Lane,residential,road,177.0,33.387,1.3,2.76,89.4
+183,3,road,A H Wadia Marg,tertiary,road,158.0,33.387,1.4,2.78,89.5
+184,3,road,residential,residential,road,160.0,33.387,1.2,2.79,89.6
+185,3,road,P R Kadam Marg,residential,road,105.0,33.387,0.8,2.8,90.2
+186,3,road,residential,residential,road,355.0,33.387,2.7,2.82,90.3
+187,3,road,Road No 19,secondary,road,90.0,33.387,1.8,2.84,90.4
+188,3,road,Avenue 5,tertiary,road,11.0,33.387,0.2,2.84,90.4
+189,3,road,residential,residential,road,114.0,33.387,0.4,2.85,90.5
+190,3,road,residential,residential,road,135.0,33.387,0.5,2.85,90.5
+191,3,road,Avenue 3: Lane 4,tertiary,road,8.0,33.387,0.1,2.85,90.5
+192,3,road,tertiary,tertiary,road,5.0,33.387,0.0,2.85,90.5
+193,3,road,residential,residential,road,8.0,33.387,0.0,2.85,90.5
+194,3,road,Air India Road,secondary,road,398.0,33.387,4.0,2.89,90.6
+195,3,road,tertiary,tertiary,road,47.0,33.387,0.4,2.9,90.6
+196,3,road,Dayanand Saraswati Marg (Central Avenue Road),secondary,road,50.0,33.387,0.5,2.9,90.6
+197,3,road,Prakash Thorat Marg,residential,road,115.0,33.387,0.4,2.91,90.6
+198,3,road,Postal Colony Road,tertiary,road,86.0,33.387,0.8,2.92,90.7
+199,3,road,residential,residential,road,121.0,33.387,0.5,2.92,90.7
+200,3,road,residential,residential,road,287.0,33.387,1.1,2.93,90.8
+201,3,road,residential,residential,road,81.0,33.387,0.3,2.93,90.8
+202,3,road,Nathani Road,tertiary,road,180.0,33.387,1.6,2.95,91.4
+203,3,road,K N Gaiakwad Marg,tertiary,road,52.0,33.387,0.9,2.96,91.4
+204,3,road,residential,residential,road,199.0,33.387,0.7,2.97,91.4
+205,3,road,KN Gaikwad Marg,residential,road,263.0,33.387,1.0,2.98,91.5
+206,3,road,Netaji Palkar Marg,residential,road,129.0,33.387,0.5,2.98,91.5
+207,3,road,residential,residential,road,95.0,33.387,0.4,2.99,91.5
+208,3,road,Ratilal Mehta Marg,tertiary,road,78.0,33.387,0.7,2.99,91.5
+209,3,road,residential,residential,road,73.0,33.387,0.3,2.99,91.6
+210,3,road,Parshiwadi Road,residential,road,126.0,33.387,0.5,3.0,91.7
+211,3,road,residential,residential,road,104.0,33.387,0.4,3.0,91.7
+212,3,road,unclassified,unclassified,road,407.0,33.387,1.5,3.02,91.7
+213,3,road,residential,residential,road,39.0,33.387,0.1,3.02,91.7
+214,3,road,residential,residential,road,159.0,33.387,0.6,3.03,91.7
+215,3,road,residential,residential,road,11.0,33.387,0.0,3.03,91.7
+216,3,road,D K Sandu Marg,secondary,road,92.0,33.387,0.9,3.04,91.7
+217,3,road,7th Cross Road,residential,road,126.0,33.387,0.5,3.04,91.7
+218,3,road,Santa Cruz – Chembur Link Road,trunk,road,149.0,33.387,2.2,3.06,91.7
+219,3,road,Bhiva Bapu Magre Marg,tertiary,road,65.0,33.387,0.6,3.07,91.7
+220,3,road,residential,residential,road,56.0,33.387,0.2,3.07,91.7
+221,3,road,residential,residential,road,213.0,33.387,0.8,3.08,91.7
+222,3,road,tertiary,tertiary,road,8.0,33.387,0.1,3.08,91.7
+223,3,road,Avenue 3: Lane 1,tertiary,road,316.0,33.387,2.8,3.11,91.8
+224,3,road,residential,residential,road,19.0,33.387,0.1,3.11,91.8
+225,3,road,Lal Bahadur Shastri Marg,primary,road,38.0,33.387,1.5,3.12,91.8
+226,3,road,Road No 13,residential,road,107.0,33.387,0.8,3.13,91.8
+227,3,road,residential,residential,road,34.0,33.387,0.1,3.13,91.8
+228,3,road,unclassified,unclassified,road,1120.0,33.387,8.4,3.22,91.9
+229,3,road,Ramakrishna Chemburkar Marg,secondary,road,22.0,33.387,0.4,3.22,91.9
+230,3,road,Dr Babasaheb Ambedkar Udyan Circle,secondary,road,30.0,33.387,0.3,3.23,91.9
+231,3,road,Tilak Road,residential,road,76.0,33.387,0.3,3.23,91.9
+232,3,road,Rajawadi Road Number 4,residential,road,82.0,33.387,0.6,3.23,91.9
+233,3,road,residential,residential,road,75.0,33.387,0.6,3.24,91.9
+234,3,road,Ratilal Mehta Marg,tertiary,road,10.0,33.387,0.1,3.24,91.9
+235,3,road,residential,residential,road,181.0,33.387,1.4,3.25,91.9
+236,3,road,Shri Ahobila Mutt Road,residential,road,64.0,33.387,0.5,3.26,91.9
+237,3,road,tertiary_link,tertiary_link,road,66.0,33.387,0.6,3.27,91.9
+238,3,road,Tilak Road,residential,road,37.0,33.387,0.3,3.27,91.9
+239,3,road,tertiary,tertiary,road,24.0,33.387,0.2,3.27,91.9
+240,3,road,residential,residential,road,96.0,33.387,0.4,3.27,91.9
+241,3,road,secondary,secondary,road,86.0,33.387,1.7,3.29,91.9
+242,3,road,residential,residential,road,76.0,33.387,0.3,3.29,91.9
+243,3,road,Road 2,residential,road,160.0,33.387,0.6,3.3,91.9
+244,3,road,secondary,secondary,road,47.0,33.387,0.9,3.31,91.9
+245,3,road,Road 2,residential,road,138.0,33.387,0.5,3.31,91.9
+246,3,road,D Saraswati Marg (Central Avenue),secondary,road,5.0,33.387,0.1,3.32,91.9
+247,3,road,Janardan Patil Road,tertiary,road,179.0,33.387,1.6,3.33,92.0
+248,3,road,Tilak Road,residential,road,58.0,33.387,0.2,3.33,92.0
+249,3,road,residential,residential,road,12.0,33.387,0.0,3.33,92.0
+250,3,road,residential,residential,road,410.0,33.387,3.1,3.36,92.0
+251,3,road,Road No.10,tertiary,road,166.0,33.387,1.5,3.38,92.0
+252,3,road,K N Gaiakwad Marg,tertiary,road,56.0,33.387,1.0,3.39,92.0
+253,3,road,residential,residential,road,161.0,33.387,0.6,3.4,92.0
+254,3,road,Road No.15,residential,road,105.0,33.387,0.4,3.4,92.0
+255,3,road,residential,residential,road,202.0,33.387,0.8,3.41,92.0
+256,3,road,residential,residential,road,62.0,33.387,0.5,3.41,92.0
+257,3,road,Shell Colony Road,tertiary,road,56.0,33.387,1.0,3.42,92.1
+258,3,road,Station Road,tertiary,road,67.0,33.387,0.6,3.43,92.1
+259,3,road,Mahatma Gandhi Road,tertiary,road,144.0,33.387,1.3,3.44,92.1
+260,3,road,Street 7,tertiary,road,42.0,33.387,0.4,3.44,92.1
+261,3,road,residential,residential,road,91.0,33.387,0.3,3.45,92.1
+262,3,road,residential,residential,road,167.0,33.387,0.6,3.45,92.1
+263,3,road,KN Gaikwad Marg,residential,road,25.0,33.387,0.1,3.46,92.1
+264,3,road,Ramakrishna Chemburkar Marg,secondary,road,34.0,33.387,0.7,3.46,92.1
+265,3,road,residential,residential,road,157.0,33.387,0.6,3.47,92.1
+266,3,road,Nathani Road,tertiary,road,6.0,33.387,0.1,3.47,92.1
+267,3,road,residential,residential,road,26.0,33.387,0.1,3.47,92.1
+268,3,road,tertiary,tertiary,road,20.0,33.387,0.2,3.47,92.1
+269,3,road,residential,residential,road,122.0,33.387,0.9,3.48,92.1
+270,3,road,Nathani Road,tertiary,road,44.0,33.387,0.4,3.48,92.1
+271,3,road,Road No 3,residential,road,194.0,33.387,0.7,3.49,92.1
+272,3,road,Mahatma Gandhi Road,tertiary,road,9.0,33.387,0.1,3.49,92.1
+273,3,road,Nathani Road,tertiary,road,45.0,33.387,0.8,3.5,92.1
+274,3,road,residential,residential,road,179.0,33.387,0.7,3.51,92.1
+275,3,road,secondary,secondary,road,111.0,33.387,1.1,3.52,92.2
+276,3,road,Nathani Road,tertiary,road,132.0,33.387,1.2,3.53,92.2
+277,3,road,Kamgar Nagar Road,residential,road,213.0,33.387,0.8,3.54,92.2
+278,3,road,Ratilal Mehta Marg,tertiary,road,8.0,33.387,0.1,3.54,92.2
+279,3,road,Bhiva Bapu Magre Marg,tertiary,road,48.0,33.387,0.4,3.54,92.2
+280,3,facility,Chhedanagar Sub Station (Reliance Energy),substation,power,,33.387,200.0,5.54,99.6
+281,3,road,residential,residential,road,116.0,33.387,0.4,5.55,99.6
+282,3,road,D Saraswati Marg (Central Avenue),secondary,road,74.0,33.387,0.7,5.56,99.6
+283,3,road,Mahatma Gandhi Road,tertiary,road,10.0,33.387,0.2,5.56,99.6
+284,3,road,Nathani Road,tertiary,road,11.0,33.387,0.1,5.56,99.6
+285,3,road,Road 2,residential,road,5.0,33.387,0.0,5.56,99.6
+286,3,road,Nathani Road,tertiary,road,55.0,33.387,1.0,5.57,99.6
+287,3,road,Road No 13,residential,road,245.0,33.387,0.9,5.58,99.6
+288,3,road,Road No. 6,tertiary,road,76.0,33.387,0.7,5.58,99.6
+289,3,road,Nathani Road,tertiary,road,36.0,33.387,0.3,5.59,99.6
+290,3,road,residential,residential,road,9.0,33.387,0.0,5.59,99.6
+291,3,road,Ghatkopar Mahul Road,tertiary,road,70.0,33.387,1.3,5.6,99.6
+292,3,road,Street 7,secondary,road,36.0,33.387,0.4,5.6,99.6
+293,3,road,Nathani Road,tertiary,road,70.0,33.387,1.3,5.62,99.6
+294,3,road,S.G. Barve Marg,secondary,road,5.0,33.387,0.0,5.62,99.6
+295,3,road,Nathani Road,tertiary,road,28.0,33.387,0.2,5.62,99.6
+296,3,road,Nathani Road,tertiary,road,74.0,33.387,0.7,5.63,99.6
+297,3,road,Nathani Road,tertiary,road,50.0,33.387,0.4,5.63,99.6
+298,3,road,Ghatkopar Mahul Road,tertiary,road,92.0,33.387,1.7,5.65,99.6
+299,3,road,Nathani Road,tertiary,road,182.0,33.387,1.6,5.66,99.6
+300,3,road,Road No. 6,tertiary,road,88.0,33.387,0.8,5.67,99.6
+301,3,road,residential,residential,road,45.0,33.387,0.3,5.68,99.6
+302,3,road,residential,residential,road,79.0,33.387,0.3,5.68,99.6
+303,3,road,Hotel Trident Road,tertiary,road,138.0,33.387,1.2,5.69,99.6
+304,3,road,Ramakrishna Chemburkar Marg,secondary,road,153.0,33.387,1.5,5.71,99.6
+305,3,road,residential,residential,road,71.0,33.387,0.3,5.71,99.8
+306,3,road,residential,residential,road,373.0,33.387,1.4,5.72,99.8
+307,3,road,residential,residential,road,330.0,33.387,1.2,5.74,99.8
+308,3,road,Vidya Nagari Marg,secondary,road,13.0,33.387,0.3,5.74,99.8
+309,3,road,residential,residential,road,8.0,33.387,0.0,5.74,99.8
+310,3,road,tertiary_link,tertiary_link,road,7.0,33.387,0.1,5.74,99.8
+311,3,road,residential,residential,road,170.0,33.387,1.3,5.75,99.9
+312,3,road,residential,residential,road,204.0,33.387,0.8,5.76,99.9
+313,3,road,residential,residential,road,111.0,33.387,0.4,5.76,99.9
+314,3,road,residential,residential,road,40.0,33.387,0.2,5.77,99.9
+315,3,road,residential,residential,road,12.0,33.387,0.1,5.77,99.9
+316,3,road,residential,residential,road,9.0,33.387,0.1,5.77,99.9
+317,3,road,residential,residential,road,75.0,33.387,0.3,5.77,99.9
+318,3,road,residential,residential,road,49.0,33.387,0.4,5.77,100.0
+319,3,road,tertiary,tertiary,road,8.0,33.387,0.1,5.77,100.0
+320,3,road,9th Road,residential,road,32.0,33.387,0.2,5.78,100.0
+321,3,road,Nathani Road,tertiary,road,26.0,33.387,0.2,5.78,100.0
+322,3,road,Road 1,residential,road,242.0,33.387,0.9,5.79,100.0
+323,3,road,Nathani Road,tertiary,road,20.0,33.387,0.4,5.79,100.0
+324,3,road,Road No. 6,tertiary,road,57.0,33.387,1.0,5.8,100.0
+325,3,road,residential,residential,road,89.0,33.387,0.3,5.8,100.0
+326,3,road,residential,residential,road,46.0,33.387,0.3,5.81,100.0
+327,3,road,Ramakrishna Chemburkar Marg,secondary,road,209.0,33.387,2.1,5.83,100.0
+328,3,road,Road No 15,residential,road,142.0,33.387,0.5,5.83,100.0
+329,3,road,D Saraswati Marg (Central Avenue),secondary,road,66.0,33.387,1.3,5.85,100.0

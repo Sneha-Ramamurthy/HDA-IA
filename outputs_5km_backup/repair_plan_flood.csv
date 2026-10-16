@@ -1,0 +1,436 @@
+priority,phase,kind,asset,type,group,length_m,hazard_metric,repair_cost_lakh,cum_cost_crore,cum_access_recovered_pct
+1,1,road,Sunder Nagar Road Number 2,residential,road,66.0,0.57,0.2,0.0,5.1
+2,1,road,residential,residential,road,3.0,0.989,0.0,0.0,5.3
+3,1,road,primary_link,primary_link,road,38.0,0.882,0.8,0.01,9.3
+4,1,road,residential,residential,road,46.0,0.652,0.2,0.01,9.7
+5,1,road,residential,residential,road,10.0,2.265,0.1,0.01,9.9
+6,1,road,residential,residential,road,16.0,2.142,0.1,0.01,10.0
+7,1,road,residential,residential,road,16.0,2.981,0.1,0.02,10.1
+8,1,road,residential,residential,road,82.0,0.783,0.3,0.02,10.4
+9,1,road,residential,residential,road,10.0,0.962,0.0,0.02,10.7
+10,1,road,residential,residential,road,33.0,0.962,0.1,0.02,11.5
+11,1,road,primary_link,primary_link,road,11.0,0.733,0.2,0.02,11.6
+12,1,road,residential,residential,road,29.0,1.1,0.2,0.02,11.8
+13,1,road,residential,residential,road,46.0,1.202,0.3,0.03,12.4
+14,1,road,residential,residential,road,27.0,2.381,0.2,0.03,12.5
+15,1,road,primary,primary,road,14.0,2.014,0.6,0.04,14.5
+16,1,road,residential,residential,road,38.0,1.898,0.3,0.04,14.7
+17,1,road,residential,residential,road,39.0,1.17,0.3,0.04,14.9
+18,1,road,residential,residential,road,30.0,3.569,0.2,0.04,15.0
+19,1,road,tertiary,tertiary,road,36.0,0.547,0.3,0.05,15.2
+20,1,road,tertiary_link,tertiary_link,road,3.0,0.957,0.0,0.05,15.3
+21,1,road,Tajjushsharia Road,residential,road,113.0,0.841,0.4,0.05,15.5
+22,1,road,residential,residential,road,96.0,0.791,0.4,0.05,15.7
+23,1,road,residential,residential,road,15.0,1.582,0.1,0.06,16.6
+24,1,road,residential,residential,road,42.0,2.058,0.3,0.06,16.9
+25,1,road,residential,residential,road,27.0,2.446,0.2,0.06,17.1
+26,1,road,residential,residential,road,60.0,0.758,0.2,0.06,17.3
+27,1,road,residential,residential,road,43.0,2.104,0.3,0.07,17.5
+28,1,road,tertiary,tertiary,road,37.0,0.645,0.3,0.07,17.6
+29,1,road,tertiary_link,tertiary_link,road,3.0,0.979,0.0,0.07,17.8
+30,1,road,residential,residential,road,50.0,2.745,0.4,0.07,17.9
+31,1,road,residential,residential,road,45.0,1.585,0.3,0.08,18.1
+32,1,road,Lal Bahadur Shastri Marg,primary,road,47.0,0.74,0.9,0.09,18.4
+33,1,road,residential,residential,road,65.0,1.728,0.5,0.09,18.6
+34,1,road,residential,residential,road,68.0,3.059,0.5,0.1,18.8
+35,1,road,residential,residential,road,59.0,1.515,0.4,0.1,18.9
+36,1,road,tertiary,tertiary,road,8.0,1.616,0.1,0.1,19.0
+37,1,road,Lal Bahadur Shastri Marg,primary,road,27.0,0.798,0.5,0.11,19.2
+38,1,road,residential,residential,road,9.0,0.798,0.0,0.11,19.4
+39,1,road,residential,residential,road,62.0,0.798,0.2,0.11,19.5
+40,1,road,residential,residential,road,53.0,3.519,0.4,0.11,19.6
+41,1,road,residential,residential,road,44.0,2.748,0.3,0.12,19.8
+42,1,road,residential,residential,road,71.0,1.029,0.5,0.12,19.9
+43,1,road,residential,residential,road,53.0,2.015,0.4,0.13,20.0
+44,1,road,residential,residential,road,68.0,0.993,0.3,0.13,20.4
+45,1,road,Mathuradas Vasanji Road (Andheri Kurla Road),tertiary,road,72.0,0.561,0.6,0.14,20.5
+46,1,road,Mathuradas Vasanji Road (Andheri Kurla Road),tertiary,road,30.0,1.163,0.5,0.14,21.6
+47,1,road,Mathuradas Vasanji Road (Andheri Kurla Road),tertiary,road,22.0,1.381,0.4,0.15,22.0
+48,1,road,tertiary,tertiary,road,14.0,2.202,0.3,0.15,22.1
+49,1,road,Lal Bahadur Shastri Marg,primary,road,27.0,1.792,1.1,0.16,22.7
+50,1,road,tertiary,tertiary,road,28.0,1.043,0.5,0.16,22.9
+51,1,road,Magan Nathuram Road,primary,road,14.0,2.202,0.6,0.17,23.0
+52,1,road,Hotel Trident Road,tertiary,road,8.0,2.62,0.1,0.17,23.2
+53,1,road,Kalina Kurla Road,secondary,road,35.0,3.601,0.7,0.18,23.4
+54,1,road,Avenue 3,tertiary,road,10.0,2.928,0.2,0.18,23.5
+55,1,road,Street 7,tertiary,road,13.0,4.097,0.2,0.18,23.6
+56,1,road,Avenue 3,tertiary,road,10.0,4.097,0.2,0.18,23.8
+57,1,road,Lal Bahadur Shastri Marg,primary,road,23.0,0.852,0.5,0.19,23.9
+58,1,road,residential,residential,road,209.0,0.7,0.8,0.2,24.0
+59,1,road,Pipeline Road,tertiary,road,43.0,2.299,0.8,0.2,24.2
+60,1,road,residential,residential,road,4.0,2.299,0.0,0.2,24.4
+61,1,road,tertiary,tertiary,road,24.0,2.918,0.4,0.21,24.5
+62,1,road,tertiary_link,tertiary_link,road,4.0,3.538,0.1,0.21,24.7
+63,1,road,residential,residential,road,90.0,2.491,0.7,0.22,24.8
+64,1,road,tertiary,tertiary,road,48.0,1.515,0.9,0.22,25.0
+65,1,road,residential,residential,road,3.0,1.515,0.0,0.22,25.2
+66,1,road,residential,residential,road,75.0,1.444,0.6,0.23,25.3
+67,1,road,Chunabhatti Road,secondary,road,35.0,1.72,0.7,0.24,25.4
+68,1,road,residential,residential,road,10.0,1.8,0.1,0.24,25.5
+69,1,road,Chunabhatti Road,secondary,road,9.0,1.8,0.2,0.24,25.7
+70,1,road,residential,residential,road,147.0,0.792,0.6,0.25,25.8
+71,1,road,residential,residential,road,58.0,0.837,0.2,0.25,25.9
+72,1,road,Vasantarao Naik Marg,secondary,road,42.0,3.374,0.8,0.26,26.0
+73,1,road,residential,residential,road,124.0,2.982,0.9,0.27,26.2
+74,1,road,residential,residential,road,110.0,3.234,0.8,0.27,26.3
+75,1,road,Bandra Kurla Complex Road,primary,road,8.0,7.224,0.2,0.28,26.5
+76,1,road,Street 9,tertiary,road,18.0,7.224,0.3,0.28,26.6
+77,1,road,Bandra Kurla Complex Road,primary,road,8.0,7.224,0.2,0.28,26.7
+78,1,road,Street 9,tertiary,road,29.0,7.224,0.5,0.29,26.9
+79,1,road,Pipeline Road,tertiary,road,50.0,3.079,0.9,0.3,27.3
+80,1,road,residential,residential,road,91.0,2.313,0.7,0.3,27.4
+81,1,road,Avenue 3,tertiary,road,26.0,0.521,0.2,0.3,27.6
+82,1,road,Chunabhatti Road,secondary,road,40.0,1.57,0.8,0.31,27.7
+83,1,road,Bandra Kurla Complex Road,primary,road,28.0,7.224,0.9,0.32,27.8
+84,1,road,Chunabhatti Road,secondary,road,40.0,1.222,0.8,0.33,28.0
+85,1,road,Kalina Kurla Road,secondary,road,52.0,3.139,1.0,0.34,28.2
+86,1,road,residential,residential,road,99.0,0.708,0.4,0.34,28.3
+87,1,road,Lal Bahadur Shastri Marg,primary,road,113.0,1.536,4.5,0.39,29.1
+88,1,road,Lal Bahadur Shastri Marg,primary,road,44.0,1.555,1.8,0.41,29.4
+89,1,road,Bandra Kurla Complex Road,primary,road,31.0,1.291,0.9,0.42,29.6
+90,1,road,Bandra Kurla Complex Road,primary,road,14.0,1.112,0.4,0.42,29.8
+91,1,road,secondary,secondary,road,18.0,1.112,0.5,0.43,29.9
+92,1,road,Bandra Kurla Complex Road,primary,road,10.0,1.112,0.3,0.43,30.1
+93,1,road,Bandra Kurla Complex Road,primary,road,34.0,0.76,0.5,0.43,30.3
+94,1,road,secondary,secondary,road,27.0,2.986,0.8,0.44,30.4
+95,1,road,secondary,secondary,road,36.0,2.868,1.1,0.45,30.6
+96,1,road,Lal Bahadur Shastri Marg,primary,road,30.0,1.005,1.2,0.46,30.8
+97,1,road,Santa Cruz – Chembur Link Road,trunk,road,61.0,1.13,1.2,0.48,30.9
+98,1,road,residential,residential,road,159.0,1.425,1.2,0.49,31.1
+99,1,road,residential,residential,road,116.0,1.936,0.9,0.5,31.2
+100,1,road,tertiary,tertiary,road,44.0,0.715,0.4,0.5,31.3
+101,1,road,Magan Nathuram Road,primary,road,34.0,1.949,1.3,0.51,31.4
+102,1,road,Sion Panvel Highway,trunk,road,68.0,0.74,1.4,0.53,31.6
+103,1,road,residential,residential,road,182.0,1.966,1.4,0.54,31.8
+104,1,road,residential,residential,road,21.0,1.825,0.2,0.54,31.9
+105,1,road,residential,residential,road,123.0,1.232,0.9,0.55,32.1
+106,1,road,residential,residential,road,95.0,0.661,0.4,0.56,32.2
+107,1,road,Avenue 3,tertiary,road,32.0,0.703,0.3,0.56,32.2
+108,1,road,Santa Cruz – Chembur Link Road,trunk,road,102.0,1.305,3.1,0.59,32.5
+109,1,road,trunk_link,trunk_link,road,27.0,1.36,1.1,0.6,34.8
+110,1,road,residential,residential,road,43.0,1.092,0.3,0.6,34.8
+111,1,road,Santa Cruz – Chembur Link Road,trunk,road,31.0,0.691,0.5,0.61,34.9
+112,1,road,Sunder Nagar Road Number 2,residential,road,72.0,1.929,0.5,0.61,35.0
+113,1,road,residential,residential,road,135.0,1.902,1.0,0.62,35.1
+114,1,road,Santa Cruz – Chembur Link Road,trunk,road,72.0,1.775,2.2,0.65,35.3
+115,1,road,Sion Panvel Highway,trunk,road,39.0,2.983,2.0,0.66,35.4
+116,1,road,Lal Bahadur Shastri Marg,primary,road,58.0,1.846,2.3,0.69,35.6
+117,1,road,Kalina Kurla Road,secondary,road,17.0,2.41,0.3,0.69,35.8
+118,1,road,Nehru Nagar Police Station Marg,residential,road,8.0,0.614,0.0,0.69,35.8
+119,1,road,Lal Bahadur Shastri Marg,primary,road,373.0,2.985,14.9,0.84,36.9
+120,1,road,primary_link,primary_link,road,9.0,1.732,0.4,0.84,37.1
+121,1,road,Lal Bahadur Shastri Marg,primary,road,13.0,1.732,0.5,0.85,37.2
+122,1,road,residential,residential,road,45.0,0.907,0.2,0.85,37.4
+123,1,road,residential,residential,road,286.0,0.682,1.1,0.86,37.6
+124,1,road,residential,residential,road,17.0,2.062,0.1,0.86,37.6
+125,1,road,Santa Cruz – Chembur Link Road,trunk,road,33.0,3.498,1.0,0.87,37.7
+126,1,road,trunk_link,trunk_link,road,24.0,3.498,1.0,0.88,37.8
+127,1,road,Santa Cruz – Chembur Link Road,trunk,road,64.0,0.622,1.0,0.89,37.9
+128,1,road,Santa Cruz – Chembur Link Road,trunk,road,48.0,1.166,1.4,0.91,38.1
+129,1,road,residential,residential,road,36.0,3.18,0.3,0.91,38.2
+130,1,road,residential,residential,road,105.0,0.964,0.4,0.91,38.2
+131,1,road,residential,residential,road,147.0,2.085,1.1,0.92,38.3
+132,1,road,secondary,secondary,road,6.0,4.185,0.2,0.93,38.4
+133,1,road,secondary,secondary,road,7.0,4.185,0.2,0.93,38.5
+134,1,road,secondary,secondary,road,26.0,4.185,0.8,0.94,38.6
+135,1,road,Santa Cruz – Chembur Link Road,trunk,road,9.0,3.493,0.3,0.94,38.6
+136,1,road,Santa Cruz – Chembur Link Road,trunk,road,35.0,3.37,1.0,0.95,38.7
+137,1,road,Santa Cruz – Chembur Link Road,trunk,road,3.0,3.248,0.1,0.95,38.8
+138,1,road,BKC - CST Link Road,tertiary,road,145.0,0.68,2.0,0.97,39.1
+139,1,road,tertiary_link,tertiary_link,road,15.0,0.996,0.1,0.97,39.2
+140,1,road,Lal Bahadur Shastri Marg,primary,road,68.0,0.546,1.4,0.98,39.9
+141,1,road,residential,residential,road,67.0,0.691,0.2,0.99,39.9
+142,1,road,Kolivery Road,residential,road,188.0,4.572,1.4,1.0,40.0
+143,1,road,secondary,secondary,road,111.0,3.445,2.2,1.02,40.2
+144,1,road,Santa Cruz – Chembur Link Road,trunk,road,48.0,1.857,1.5,1.04,40.3
+145,1,road,residential,residential,road,151.0,3.342,1.1,1.05,40.3
+146,1,road,residential,residential,road,18.0,4.39,0.1,1.05,40.4
+147,1,road,residential,residential,road,25.0,4.609,0.2,1.05,40.5
+148,1,road,residential,residential,road,6.0,4.609,0.0,1.05,40.6
+149,1,road,residential,residential,road,88.0,4.025,0.7,1.06,40.6
+150,1,road,residential,residential,road,95.0,3.834,0.7,1.07,40.7
+151,1,road,residential,residential,road,78.0,3.663,0.6,1.07,40.8
+152,1,road,residential,residential,road,104.0,4.649,0.8,1.08,40.9
+153,1,road,secondary,bridge,road,183.0,3.601,18.3,1.26,41.9
+154,1,road,Kalina Kurla Road,secondary,road,13.0,3.064,0.3,1.27,42.0
+155,1,road,Shastri Nagar Road,residential,road,79.0,0.943,0.3,1.27,42.2
+156,1,road,residential,residential,road,39.0,0.617,0.1,1.27,42.4
+157,1,road,residential,residential,road,28.0,1.38,0.2,1.27,42.5
+158,1,road,Kalina Kurla Road,secondary,road,36.0,0.77,0.4,1.28,42.7
+159,1,road,residential,residential,road,46.0,0.743,0.2,1.28,43.0
+160,1,road,residential,residential,road,87.0,1.519,0.6,1.28,43.1
+161,1,road,Shastri Nagar Road,residential,road,93.0,1.008,0.7,1.29,43.3
+162,1,road,residential,residential,road,45.0,1.605,0.3,1.29,43.5
+163,1,road,residential,residential,road,194.0,2.425,1.5,1.31,43.6
+164,1,road,Street 3,secondary,road,42.0,2.89,0.8,1.32,43.7
+165,1,road,Bandra Kurla Complex Road,primary,road,8.0,2.89,0.2,1.32,43.8
+166,1,road,Street 3,secondary,road,46.0,2.89,0.9,1.33,44.2
+167,1,road,Avenue 3,secondary,road,9.0,1.027,0.2,1.33,44.3
+168,1,road,Avenue 3: Lane 1,tertiary,road,12.0,1.523,0.2,1.33,44.4
+169,1,road,Avenue 3,secondary,road,9.0,1.523,0.2,1.33,44.4
+170,1,road,Street 3,secondary,road,18.0,2.555,0.4,1.34,44.5
+171,1,road,Bandra Kurla Complex Road,primary,road,7.0,2.219,0.2,1.34,44.6
+172,1,road,Bandra Kurla Complex Road,primary,road,37.0,2.291,1.1,1.35,44.7
+173,1,road,Avenue 3,secondary,road,278.0,1.631,5.6,1.41,45.2
+174,1,road,Avenue 3,tertiary,road,29.0,0.851,0.3,1.41,45.2
+175,1,road,BKC Connector,secondary,road,25.0,0.697,0.3,1.41,45.3
+176,1,road,tertiary_link,tertiary_link,road,41.0,0.709,0.4,1.42,45.4
+177,1,road,Avenue 3,secondary,road,45.0,0.783,0.5,1.42,45.4
+178,1,road,secondary_link,secondary_link,road,50.0,1.855,1.0,1.43,45.6
+179,1,road,Avenue 3,secondary,road,22.0,1.442,0.4,1.44,45.6
+180,1,road,Street 3,secondary,road,33.0,1.343,0.7,1.44,45.7
+181,1,road,Bandra Kurla Complex Road,primary,road,47.0,3.417,1.4,1.46,45.8
+182,1,road,secondary,secondary,road,55.0,3.493,1.6,1.47,45.9
+183,1,road,Avenue 3,tertiary,road,74.0,1.388,1.3,1.49,45.9
+184,1,road,Avenue 3,tertiary,road,10.0,1.388,0.2,1.49,46.0
+185,1,road,unclassified,unclassified,road,12.0,1.388,0.2,1.49,46.1
+186,1,road,Avenue 3,tertiary,road,9.0,1.388,0.2,1.49,46.1
+187,1,road,unclassified,unclassified,road,137.0,0.843,1.0,1.5,46.4
+188,1,road,Lal Bahadur Shastri Marg,primary,road,82.0,2.914,3.3,1.53,46.8
+189,1,road,Chunabhatti Road,secondary,road,110.0,0.876,1.1,1.54,46.8
+190,1,road,Lal Bahadur Shastri Marg,primary,road,86.0,1.373,3.4,1.58,47.0
+191,1,road,N S Mankikar Marg,secondary,road,57.0,1.795,1.1,1.59,47.1
+192,1,road,residential,residential,road,133.0,3.514,1.0,1.6,47.2
+193,1,road,residential,residential,road,227.0,1.866,1.7,1.62,47.3
+194,1,road,A H Wadia Marg,tertiary,road,398.0,0.761,3.6,1.65,47.4
+195,1,road,residential,residential,road,17.0,0.522,0.1,1.65,47.9
+196,1,road,A H Wadia Marg,tertiary,road,158.0,2.217,2.8,1.68,48.0
+197,1,road,A H Wadia Marg,tertiary,road,11.0,1.841,0.2,1.68,48.2
+198,1,road,Lal Bahadur Shastri Marg,primary,road,22.0,1.309,0.9,1.69,48.3
+199,1,road,primary_link,primary_link,road,9.0,2.341,0.4,1.7,48.5
+200,1,road,Lal Bahadur Shastri Marg,primary,road,43.0,2.341,1.7,1.71,48.6
+201,1,road,residential,residential,road,13.0,2.129,0.1,1.72,48.8
+202,1,road,residential,residential,road,146.0,0.833,0.5,1.72,48.9
+203,1,road,Kanzul Iman Road,tertiary,road,140.0,0.883,1.3,1.73,49.0
+204,1,road,Kanzul Iman Road,tertiary,road,94.0,0.638,0.8,1.74,49.6
+205,1,road,residential,residential,road,20.0,2.04,0.2,1.74,49.6
+206,1,road,residential,bridge,road,115.0,2.533,4.3,1.79,49.8
+207,1,road,residential,residential,road,37.0,2.533,0.3,1.79,49.9
+208,2,road,residential,residential,road,43.0,1.619,0.3,1.79,50.1
+209,2,road,residential,residential,road,75.0,2.528,0.6,1.8,50.3
+210,2,road,residential,residential,road,158.0,1.159,1.2,1.81,50.4
+211,2,road,residential,residential,road,161.0,1.559,1.2,1.82,50.6
+212,2,road,residential,residential,road,211.0,3.291,1.6,1.84,50.7
+213,2,road,Avenue 3,tertiary,road,198.0,4.92,3.6,1.87,50.9
+214,2,road,unclassified,unclassified,road,12.0,5.723,0.1,1.87,51.0
+215,2,road,Avenue 3,tertiary,road,194.0,4.892,3.5,1.91,51.1
+216,2,road,Avenue 3,tertiary,road,9.0,1.008,0.2,1.91,51.2
+217,2,road,Avenue 5: Lane 3,tertiary,road,12.0,1.286,0.2,1.91,51.4
+218,2,road,Avenue 3,tertiary,road,8.0,1.286,0.1,1.91,51.5
+219,2,road,Avenue 3,tertiary,road,202.0,2.53,3.6,1.95,51.7
+220,2,road,unclassified,unclassified,road,12.0,0.69,0.1,1.95,51.8
+221,2,road,Avenue 3,tertiary,road,8.0,1.379,0.1,1.95,51.9
+222,2,road,Avenue 3,tertiary,road,86.0,1.501,1.6,1.97,52.0
+223,2,road,tertiary_link,tertiary_link,road,12.0,1.414,0.2,1.97,52.1
+224,2,road,unclassified,unclassified,road,111.0,4.456,1.7,1.99,52.2
+225,2,road,unclassified,unclassified,road,9.0,0.577,0.1,1.99,52.4
+226,2,road,Avenue 5,tertiary,road,12.0,0.577,0.1,1.99,52.5
+227,2,road,unclassified,unclassified,road,9.0,0.577,0.1,1.99,52.6
+228,2,road,Avenue 5,tertiary,road,11.0,0.577,0.1,1.99,52.7
+229,2,road,Avenue 5: Lane 3,tertiary,road,105.0,1.484,1.9,2.01,52.8
+230,2,road,Avenue 5,tertiary,road,11.0,0.717,0.1,2.01,52.9
+231,2,road,BKC - CST Link Road,tertiary,road,222.0,0.908,3.0,2.04,53.0
+232,2,road,tertiary_link,tertiary_link,road,15.0,0.859,0.1,2.04,53.1
+233,2,road,BKC - CST Link Road,tertiary,road,94.0,0.85,1.3,2.05,53.2
+234,2,road,tertiary_link,tertiary_link,road,15.0,2.908,0.3,2.06,53.3
+235,2,road,residential,residential,road,523.0,2.077,3.9,2.1,53.4
+236,2,road,Mathuradas Vasanji Road (Andheri Kurla Road),primary,road,105.0,1.1,4.2,2.14,53.8
+237,2,road,Shastri Nagar Road,residential,road,175.0,1.521,1.3,2.15,70.5
+238,2,road,residential,residential,road,202.0,3.333,1.5,2.17,70.6
+239,2,road,BKC - CST Link Road,tertiary,road,104.0,3.181,2.8,2.19,72.2
+240,2,road,Sion Panvel Highway,trunk,road,116.0,2.579,5.8,2.25,72.4
+241,2,road,Sion Panvel Highway,trunk,road,37.0,3.358,1.8,2.27,72.5
+242,2,road,Avenue 3,tertiary,road,121.0,1.414,2.2,2.29,73.2
+243,2,road,residential,residential,road,199.0,2.596,1.5,2.31,73.4
+244,2,road,Lal Bahadur Shastri Marg,primary,road,92.0,0.776,1.8,2.33,73.4
+245,2,road,Avenue 3,tertiary,road,72.0,0.521,0.6,2.33,73.5
+246,2,road,tertiary,tertiary,road,108.0,1.002,1.9,2.35,76.8
+247,2,road,Street 3,secondary,road,90.0,2.385,1.8,2.37,76.9
+248,2,road,Street 3,secondary,road,24.0,4.395,0.5,2.37,77.0
+249,2,road,secondary,secondary,road,11.0,2.394,0.2,2.38,77.2
+250,2,road,Street 3,secondary,road,206.0,0.975,2.1,2.4,77.3
+251,2,road,Santa Cruz – Chembur Link Road,trunk,road,128.0,2.33,3.9,2.44,77.8
+252,2,road,Lal Bahadur Shastri Marg,primary,road,216.0,2.605,8.6,2.52,78.8
+253,2,road,Avenue 5,tertiary,road,150.0,2.307,2.7,2.55,78.9
+254,2,road,tertiary_link,tertiary_link,road,14.0,2.963,0.2,2.55,79.0
+255,2,road,Lal Bahadur Shastri Marg,primary,road,179.0,2.182,7.1,2.62,79.2
+256,2,road,primary_link,primary_link,road,9.0,2.242,0.4,2.63,79.3
+257,2,road,Lal Bahadur Shastri Marg,primary,road,46.0,2.242,1.9,2.65,79.5
+258,2,road,residential,residential,road,59.0,1.21,0.4,2.65,79.8
+259,2,road,residential,residential,road,25.0,0.971,0.1,2.65,79.9
+260,3,road,Lal Bahadur Shastri Marg,primary,road,24.0,2.07,0.9,2.66,80.1
+261,3,road,primary_link,primary_link,road,9.0,2.436,0.4,2.66,80.2
+262,3,road,Lal Bahadur Shastri Marg,primary,road,48.0,2.436,1.9,2.68,80.4
+263,3,road,primary_link,primary_link,road,10.0,2.241,0.4,2.69,80.5
+264,3,road,Lal Bahadur Shastri Marg,primary,road,104.0,2.082,4.2,2.73,80.7
+265,3,road,primary_link,primary_link,road,11.0,2.17,0.4,2.73,80.8
+266,3,road,Lal Bahadur Shastri Marg,primary,road,155.0,2.688,6.2,2.79,80.9
+267,3,road,primary_link,primary_link,road,17.0,2.153,0.7,2.8,81.1
+268,3,road,Lal Bahadur Shastri Marg,primary,road,114.0,5.284,4.6,2.85,81.2
+269,3,road,residential,residential,road,94.0,4.968,0.7,2.85,81.3
+270,3,road,residential,residential,road,21.0,4.056,0.2,2.86,81.5
+271,3,road,residential,residential,road,80.0,3.48,0.6,2.86,81.6
+272,3,road,Lal Bahadur Shastri Marg,primary,road,33.0,5.495,1.3,2.88,81.7
+273,3,road,primary_link,primary_link,road,12.0,5.515,0.5,2.88,81.9
+274,3,road,Lal Bahadur Shastri Marg,primary,road,46.0,5.581,1.9,2.9,82.0
+275,3,road,primary_link,primary_link,road,10.0,5.837,0.4,2.9,82.1
+276,3,road,Street 3,secondary,road,168.0,2.0,3.4,2.94,82.6
+277,3,road,Kalina Kurla Road,secondary,road,86.0,0.827,0.9,2.94,82.6
+278,3,road,Santa Cruz – Chembur Link Road,trunk,road,166.0,1.139,5.0,2.99,82.7
+279,3,road,residential,bridge,road,494.0,0.83,9.3,3.09,83.0
+280,3,road,tertiary,tertiary,road,50.0,2.926,0.9,3.1,83.0
+281,3,road,Santa Cruz – Chembur Link Road,trunk,road,187.0,3.323,5.6,3.15,83.2
+282,3,road,trunk_link,trunk_link,road,27.0,0.943,0.5,3.16,83.2
+283,3,road,Santa Cruz – Chembur Link Road,trunk,road,20.0,1.755,0.6,3.16,83.2
+284,3,road,Avenue 5,tertiary,road,13.0,0.577,0.1,3.16,83.2
+285,3,road,Santa Cruz – Chembur Link Road,trunk,road,192.0,6.83,5.8,3.22,83.4
+286,3,road,Swadeshi Mill Road,residential,road,59.0,5.577,0.4,3.23,83.5
+287,3,road,Sion Panvel Highway,trunk_link,road,14.0,0.566,0.1,3.23,83.5
+288,3,road,Avenue 3: Lane 3,secondary,road,234.0,1.27,4.7,3.27,83.6
+289,3,road,trunk_link,trunk_link,road,89.0,0.852,1.8,3.29,83.6
+290,3,road,Lal Bahadur Shastri Marg,primary,road,265.0,2.167,10.6,3.4,83.7
+291,3,road,Santa Cruz – Chembur Link Road,trunk,road,226.0,1.989,6.8,3.47,83.8
+292,3,road,Street 9,tertiary,road,70.0,0.649,0.6,3.47,83.8
+293,3,road,Street 7,tertiary,road,76.0,3.514,1.4,3.49,83.8
+294,3,road,Eastern Express Highway,trunk,road,117.0,0.849,1.8,3.5,83.8
+295,3,road,secondary,secondary,road,211.0,1.461,6.3,3.57,85.6
+296,3,road,Santa Cruz – Chembur Link Road,trunk,road,298.0,3.793,9.0,3.66,85.7
+297,3,road,Lal Bahadur Shastri Marg,primary,road,95.0,0.532,1.9,3.68,85.8
+298,3,road,Lal Bahadur Shastri Marg,primary,road,232.0,1.79,9.3,3.77,85.9
+299,3,road,Santa Cruz – Chembur Link Road,bridge,road,150.0,4.185,22.4,3.99,88.7
+300,3,facility,Kurla Depot,bus_station,transport,,1.045,50.0,4.49,92.8
+301,3,road,Kanzul Iman Road,unclassified,road,482.0,1.506,7.2,4.57,93.0
+302,3,road,Kanzul Iman Road,unclassified,road,343.0,1.796,5.1,4.62,93.1
+303,3,road,Lal Bahadur Shastri Marg,bridge,road,101.0,5.837,20.2,4.82,93.2
+304,3,road,primary_link,primary_link,road,12.0,4.84,0.5,4.82,93.4
+305,3,road,Lal Bahadur Shastri Marg,primary,road,71.0,1.471,2.8,4.85,93.6
+306,3,road,Avenue 5,tertiary,road,213.0,1.05,3.8,4.89,93.6
+307,3,road,BKC - CST Link Road,tertiary,road,141.0,0.854,1.9,4.91,93.6
+308,3,road,Bandra Kurla Complex Road,primary,road,139.0,5.535,4.2,4.95,93.6
+309,3,road,Bandra Kurla Complex Road,primary,road,341.0,1.501,10.2,5.05,93.8
+310,3,road,Lal Bahadur Shastri Marg,primary,road,73.0,0.715,1.5,5.07,93.8
+311,3,road,living_street,living_street,road,68.0,1.438,0.3,5.07,94.0
+312,3,road,Street 7,tertiary,road,42.0,0.834,0.4,5.08,94.0
+313,3,road,Street 7,tertiary,road,44.0,1.727,0.8,5.08,94.0
+314,3,road,Buntar Bhavan Cross road,residential,road,295.0,1.626,2.2,5.11,94.1
+315,3,road,Lal Bahadur Shastri Marg,primary,road,200.0,2.638,8.0,5.19,94.2
+316,3,road,Avenue 3,tertiary,road,133.0,1.191,2.4,5.21,94.2
+317,3,road,secondary,bridge,road,286.0,2.749,42.8,5.64,95.1
+318,3,road,Eastern Express Highway,trunk,road,283.0,0.931,4.2,5.68,95.1
+319,3,road,Lal Bahadur Shastri Marg,primary,road,60.0,1.731,2.4,5.7,95.1
+320,3,road,residential,residential,road,104.0,1.597,0.8,5.71,95.2
+321,3,road,Bandra Kurla Complex Road,primary,road,275.0,1.408,8.2,5.79,95.3
+322,3,road,Bandra Kurla Complex Road,primary,road,22.0,1.112,0.6,5.8,95.3
+323,3,road,Santa Cruz – Chembur Link Road,trunk,road,284.0,4.933,8.5,5.89,95.4
+324,3,road,Lal Bahadur Shastri Marg,primary,road,14.0,0.733,0.3,5.89,95.4
+325,3,road,Mathuradas Vasanji Road (Andheri Kurla Road),primary,road,91.0,2.01,3.7,5.93,96.0
+326,3,road,Bandra Kurla Complex Road,primary,road,41.0,1.588,1.2,5.94,96.1
+327,3,road,Bandra Kurla Complex Road,primary,road,394.0,2.259,11.8,6.06,96.1
+328,3,road,secondary,bridge,road,137.0,2.986,20.5,6.26,96.3
+329,3,road,Avenue 3,tertiary,road,37.0,1.759,0.7,6.27,96.3
+330,3,road,Kalina Kurla Road,secondary,road,477.0,1.411,9.5,6.36,96.3
+331,3,road,unclassified,unclassified,road,12.0,1.379,0.2,6.36,96.3
+332,3,road,Flyover,bridge,road,329.0,3.323,65.8,7.02,96.5
+333,3,road,Bandra Kurla Complex Road,primary,road,385.0,0.568,5.8,7.08,96.6
+334,3,road,Bandra Kurla Complex Road,primary,road,35.0,0.505,0.5,7.09,96.6
+335,3,road,Avenue 3,secondary,road,75.0,1.848,1.5,7.1,96.6
+336,3,road,Avenue 3,tertiary,road,34.0,1.355,0.6,7.11,96.6
+337,3,road,Santa Cruz – Chembur Link Road,trunk,road,271.0,1.787,8.1,7.19,96.6
+338,3,road,Lal Bahadur Shastri Marg,primary,road,183.0,0.667,3.7,7.23,96.6
+339,3,road,Lal Bahadur Shastri Marg,primary,road,43.0,1.249,1.7,7.24,96.6
+340,3,road,Lal Bahadur Shastri Marg,primary,road,77.0,1.066,3.1,7.27,96.7
+341,3,road,trunk,bridge,road,114.0,3.248,22.7,7.5,96.7
+342,3,road,Lal Bahadur Shastri Marg,primary,road,51.0,0.585,1.0,7.51,96.7
+343,3,road,Avenue 5: Lane 3,tertiary,road,12.0,1.286,0.2,7.51,96.7
+344,3,road,Street 7,tertiary,road,12.0,1.759,0.2,7.52,96.7
+345,3,road,Bhiva Bapu Magre Marg,tertiary,road,11.0,0.614,0.1,7.52,96.7
+346,3,road,Street 3,secondary,road,205.0,1.114,4.1,7.56,96.7
+347,3,road,Street 7,tertiary,road,72.0,3.396,1.3,7.57,96.7
+348,3,road,unclassified,unclassified,road,141.0,0.697,1.1,7.58,96.7
+349,3,road,tertiary,tertiary,road,43.0,2.299,0.8,7.59,96.7
+350,3,facility,Nehru Nagar Kurla Police Station,police,emergency,,1.35,50.0,8.09,97.4
+351,3,road,Lal Bahadur Shastri Marg,primary,road,23.0,2.091,0.9,8.1,97.4
+352,3,road,unclassified,unclassified,road,113.0,2.567,1.7,8.11,97.4
+353,3,road,Lal Bahadur Shastri Marg,primary,road,167.0,2.975,6.7,8.18,97.4
+354,3,road,Vidhya Nagari Street,residential,road,205.0,2.671,1.5,8.2,97.4
+355,3,road,primary_link,primary_link,road,61.0,2.749,2.4,8.22,97.4
+356,3,road,SCLR - LBS Marg Connector,bridge,road,275.0,0.866,6.9,8.29,97.5
+357,3,road,tertiary_link,tertiary_link,road,57.0,1.365,1.0,8.3,97.5
+358,3,road,Avenue 3,tertiary,road,87.0,1.479,1.6,8.32,97.5
+359,3,road,Kanzul Iman Road,tertiary,road,95.0,0.967,0.9,8.32,97.5
+360,3,facility,BMC BKC Sewage Water Pumping Station,pumping_station,water,,1.479,100.0,9.32,99.0
+361,3,road,Pipeline Road,tertiary,road,37.0,0.547,0.3,9.33,99.0
+362,3,road,Avenue 3,tertiary,road,195.0,3.424,3.5,9.36,99.0
+363,3,road,Lal Bahadur Shastri Marg,primary,road,49.0,2.29,2.0,9.38,99.0
+364,3,road,BKC - CST Link Road,tertiary,road,95.0,0.859,1.3,9.4,99.0
+365,3,road,Bharat Nagar Road,tertiary,road,54.0,1.389,1.0,9.4,99.2
+366,3,road,Lal Bahadur Shastri Marg,primary,road,98.0,1.552,3.9,9.44,99.2
+367,3,road,Bandra Kurla Complex Road,primary,road,399.0,1.149,12.0,9.56,99.2
+368,3,road,primary_link,primary_link,road,68.0,2.89,2.7,9.59,99.2
+369,3,road,Kalina Kurla Road,bridge,road,119.0,3.513,11.9,9.71,99.2
+370,3,road,residential,residential,road,94.0,1.522,0.7,9.72,99.2
+371,3,road,secondary,secondary,road,19.0,1.112,0.6,9.72,99.2
+372,3,road,unclassified,unclassified,road,202.0,1.611,1.5,9.74,99.2
+373,3,road,Pipeline Road,tertiary,road,37.0,0.645,0.3,9.74,99.2
+374,3,road,Pipeline Road,tertiary,road,25.0,3.538,0.4,9.75,99.2
+375,3,road,Avenue 3,tertiary,road,204.0,4.92,3.7,9.78,99.2
+376,3,facility,Dalvi Nursing Home,hospital,health,,1.076,250.0,12.28,99.3
+377,3,road,Avenue 3: Lane 3,secondary,road,235.0,1.585,4.7,12.33,99.3
+378,3,road,secondary,secondary,road,26.0,4.185,0.8,12.34,99.3
+379,3,road,Lal Bahadur Shastri Marg,primary,road,47.0,1.381,1.9,12.36,99.3
+380,3,facility,Santrupti Hospital,hospital,health,,0.521,125.0,13.61,99.3
+381,3,road,Sion Panvel Highway,trunk,road,127.0,2.888,6.3,13.67,99.3
+382,3,road,residential,residential,road,113.0,0.898,0.4,13.67,99.3
+383,3,road,Flyover,bridge,road,859.0,1.206,85.9,14.53,99.4
+384,3,road,Lal Bahadur Shastri Marg,primary,road,342.0,0.974,6.8,14.6,99.4
+385,3,road,Avenue 3,tertiary,road,209.0,2.741,3.8,14.64,99.4
+386,3,road,Lal Bahadur Shastri Marg,primary,road,259.0,0.546,5.2,14.69,99.4
+387,3,road,Lal Bahadur Shastri Marg,primary,road,45.0,2.341,1.8,14.71,99.4
+388,3,road,Avenue 5,tertiary,road,252.0,1.674,4.5,14.75,99.4
+389,3,road,Lal Bahadur Shastri Marg,primary,road,104.0,2.748,4.2,14.8,99.4
+390,3,road,Avenue 3,tertiary,road,119.0,1.372,2.1,14.82,99.4
+391,3,road,Kanzul Iman Road,unclassified,road,489.0,1.506,7.3,14.89,99.4
+392,3,road,Lal Bahadur Shastri Marg,bridge,road,101.0,5.837,20.2,15.09,99.4
+393,3,road,"SCLR Flyover, Flyover",bridge,road,803.0,3.208,80.3,15.9,99.4
+394,3,road,Avenue 3: Lane 1,tertiary,road,12.0,1.027,0.2,15.9,99.4
+395,3,road,Avenue 3: Lane 3,secondary,road,393.0,0.531,3.9,15.94,99.5
+396,3,road,Avenue 3: Lane 3,secondary,road,389.0,1.296,7.8,16.01,99.6
+397,3,road,tertiary,tertiary,road,11.0,0.866,0.1,16.02,99.6
+398,3,road,Street 3,secondary,road,301.0,1.217,6.0,16.08,99.6
+399,3,road,Air India Road,secondary,road,398.0,0.74,4.0,16.12,99.7
+400,3,road,Avenue 5,tertiary,road,12.0,0.577,0.1,16.12,99.7
+401,3,road,unclassified,unclassified,road,13.0,1.191,0.2,16.12,99.7
+402,3,road,residential,residential,road,88.0,2.437,0.7,16.13,99.7
+403,3,road,Pipeline Road,tertiary,road,48.0,1.515,0.9,16.13,99.7
+404,3,road,Lal Bahadur Shastri Marg,primary,road,30.0,2.202,1.2,16.15,99.8
+405,3,road,Avenue 3,tertiary,road,31.0,0.703,0.3,16.15,99.8
+406,3,road,Santa Cruz – Chembur Link Road,trunk,road,8.0,4.185,0.2,16.15,99.8
+407,3,road,primary_link,primary_link,road,45.0,2.986,1.8,16.17,99.8
+408,3,road,primary_link,primary_link,road,41.0,3.533,1.7,16.19,99.8
+409,3,road,Lal Bahadur Shastri Marg,primary,road,59.0,2.16,2.4,16.21,99.8
+410,3,road,BKC - CST Link Road,tertiary,road,72.0,0.722,1.0,16.22,99.8
+411,3,road,Kalina Kurla Road,secondary,road,141.0,3.896,2.8,16.25,100.0
+412,3,road,Street 9,tertiary,road,18.0,7.224,0.3,16.25,100.0
+413,3,road,Street 3,secondary,road,18.0,2.219,0.4,16.25,100.0
+414,3,road,residential,residential,road,52.0,1.23,0.4,16.26,100.0
+415,3,road,Avenue 5: Lane 3,tertiary,road,110.0,1.357,2.0,16.28,100.0
+416,3,road,BKC - CST Link Road,tertiary,road,225.0,0.988,3.0,16.31,100.0
+417,3,road,Swadeshi Mills Road,residential,road,111.0,0.59,0.4,16.31,100.0
+418,3,road,trunk_link,trunk_link,road,73.0,3.006,2.9,16.34,100.0
+419,3,road,residential,residential,road,68.0,2.443,0.5,16.35,100.0
+420,3,road,Street 3,secondary,road,202.0,1.14,4.0,16.39,100.0
+421,3,road,residential,residential,road,74.0,1.728,0.6,16.39,100.0
+422,3,road,primary_link,primary_link,road,57.0,0.573,1.1,16.4,100.0
+423,3,road,Lal Bahadur Shastri Marg,primary,road,178.0,2.543,7.1,16.48,100.0
+424,3,road,Nehru Nagar Police Station Marg,residential,road,392.0,0.528,1.5,16.49,100.0
+425,3,road,Avenue 3,secondary,road,117.0,1.21,2.3,16.51,100.0
+426,3,road,BKC - CST Link Road,tertiary,road,121.0,4.019,3.3,16.55,100.0
+427,3,road,Avenue 3: Lane 2,secondary,road,265.0,1.253,5.3,16.6,100.0
+428,3,road,residential,residential,road,220.0,1.623,1.6,16.62,100.0
+429,3,road,Avenue 5,tertiary,road,320.0,1.314,5.8,16.67,100.0
+430,3,road,Avenue 5,tertiary,road,322.0,1.08,5.8,16.73,100.0
+431,3,road,living_street,living_street,road,360.0,1.128,1.8,16.75,100.0
+432,3,road,Lal Bahadur Shastri Marg,primary,road,46.0,5.595,1.8,16.77,100.0
+433,3,road,Avenue 5,tertiary,road,156.0,2.307,2.8,16.8,100.0
+434,3,road,Lal Bahadur Shastri Marg,primary,road,71.0,2.242,2.8,16.82,100.0
+435,3,road,Lal Bahadur Shastri Marg,primary,road,161.0,5.605,6.4,16.89,100.0
